@@ -27,17 +27,6 @@ The Simon Game is a classic memory game where players must remember and repeat a
 
 You can play the Simon Game online by visiting [this link](https://simonGame.com).
 
-## Installation
-
-To run this game locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```
-   git clone https://github.com/mehta1772/simon-game.git
-   ```
-
-2. Open the `index.html` file in your web browser.
 
 ## Credits
 
