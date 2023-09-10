@@ -5,7 +5,7 @@
 The Simon Game is a classic memory game where players must remember and repeat a sequence of colored buttons. This project is a web-based implementation of the Simon Game using HTML, CSS, and JavaScript. It's a fun and challenging game that tests your memory and reflexes!
 
 ## Features
-
+.
 - Simple and intuitive user interface.
 - Four colored buttons that light up in a random sequence.
 - Sound effects for each button press.
